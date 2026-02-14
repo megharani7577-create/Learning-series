@@ -7,3 +7,5 @@ Started my GitHub journey 🚀
 - Learn Web Development
 - Practice DSA daily
 - Build real projects
+
+Day 18 – Branching Practice
